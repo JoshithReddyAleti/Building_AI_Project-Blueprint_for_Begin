@@ -1,7 +1,5 @@
 # 🤖 Tool-Using AI Assistant with Validation & Structured Outputs
 
-> ** :
-
 **📬 Not subscribed yet? This repo is part of the AI Engineering Roadmap 2026 — a LinkedIn newsletter that walks you through becoming an AI engineer in 2026, one project at a time. Each episode comes with a real project, a carousel, and a concept deep-dive. → [Subscribe here](https://www.linkedin.com/newsletters/ai-engineering-roadmap-2026-7467249724752908288/)**
 
 **Episode 3 of the [AI Engineering Roadmap 2026](https://www.linkedin.com/newsletters/ai-engineering-roadmap-2026-7467249724752908288/) Newsletter Series**
