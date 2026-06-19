@@ -10,7 +10,7 @@
 These should route to the **calculator tool**.
 
 ```
-What is 25% of 480?
+What is 25% of 480? {{think}}
 → Tool: calculator | Result: 120.0
 
 What is 1,500 divided by 4?
