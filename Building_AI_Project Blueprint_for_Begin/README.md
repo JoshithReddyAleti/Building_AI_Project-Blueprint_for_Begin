@@ -174,8 +174,8 @@ tool-using-ai-assistant/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/tool-using-ai-assistant.git
-cd tool-using-ai-assistant
+git clone https://github.com/YOUR_USERNAME/Building_AI_Project_Blueprint_for_Begin
+cd Building_AI_Project_Blueprint_for_Begin
 ```
 
 ### 2. Set up your environment
