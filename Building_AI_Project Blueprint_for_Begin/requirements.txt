@@ -1,0 +1,23 @@
+# Tool-Using AI Assistant — Dependencies
+# AI Engineering Roadmap 2026, Episode 3
+#
+# Install with:
+#   pip install -r requirements.txt
+
+# ── Core ────────────────────────────────────────────────────
+openai>=1.30.0              # LLM API client (also supports Anthropic swap — see llm_client.py)
+requests>=2.31.0            # HTTP calls for weather API and any future tools
+pydantic>=2.0.0             # Schema validation — the reliability backbone
+python-dotenv>=1.0.0        # .env file loading for API key management
+
+# ── Optional: Anthropic Claude ───────────────────────────────
+# Uncomment if you want to use Claude instead of OpenAI
+# anthropic>=0.25.0
+
+# ── Testing ──────────────────────────────────────────────────
+pytest>=8.0.0               # Test runner
+pytest-cov>=5.0.0           # Coverage reporting (run: pytest --cov=app)
+
+# ── Optional: Better CLI output ──────────────────────────────
+# rich>=13.0.0              # Prettier terminal output (uncomment to enable)
+# streamlit>=1.35.0         # Web UI (uncomment for Episode 4 UI layer)
